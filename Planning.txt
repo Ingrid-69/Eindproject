@@ -1,7 +1,7 @@
-maandag: kakken
+maandag: drinken
 dinsdag: lopen
-woensdag: arne irriteren
+woensdag: turnen
 donderdag: werken
-vrijdag: niks done
+vrijdag: bij arne stella drinken
 zaterdag: voetbal
 zondag: leren
