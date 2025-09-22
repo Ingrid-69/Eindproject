@@ -1,0 +1,7 @@
+maandag: kakken
+dinsdag: lopen
+woensdag: arne irriteren
+donderdag: werken
+vrijdag: niks done
+zaterdag: voetbal
+zondag: leren
